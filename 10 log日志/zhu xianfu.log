@@ -1,0 +1,8 @@
+ERROR:root:error级别，只有我才被记录哦
+ERROR:root:error
+DEBUG:root:debug级别的调试信息
+INFO:root:info级别的日志
+ERROR:root:error
+DEBUG: 2022-04-25 13:56:57,989-debug级别的调试信息-root
+INFO: 2022-04-25 13:56:57,989-info级别的日志-root
+ERROR: 2022-04-25 13:56:57,990-error-root
